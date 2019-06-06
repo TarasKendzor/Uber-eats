@@ -251,7 +251,7 @@
   }
   
   .language-box::after {
-    content: url(/images/down-arrow.png);
+    content: url(./images/down-arrow.png);
     position: absolute;
     right: 8px;
   }
