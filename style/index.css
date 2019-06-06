@@ -251,7 +251,7 @@
   }
   
   .language-box::after {
-    content: url(/images/down-arrow.png);
+    content: url(images/down-arrow.png);
     position: absolute;
     right: 8px;
   }
@@ -278,16 +278,16 @@
   }
   
   .facebook {
-    background: url(/images/facebook.png) 50% no-repeat;
+    background: url(images/facebook.png) 50% no-repeat;
   }
   
   .twitter {
-    background: url(/images/twitter.png) 50% no-repeat;
+    background: url(images/twitter.png) 50% no-repeat;
     margin: 0 4px;
   }
   
   .instagram {
-    background: url(/images/instagram.png) 50% no-repeat;
+    background: url(images/instagram.png) 50% no-repeat;
   }
   
   .footer-apps {
